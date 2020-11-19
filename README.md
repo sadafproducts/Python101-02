@@ -1,7 +1,7 @@
 # Python 101-02
 Two simple code files to move multiple files
 - First: move multiple files.py 
-- Second: 03 increment filename and move file.py
+- Second: increment filename and move file.py
 
 # Read More
 https://stackoverflow.com/questions/42161982/copying-files-raises-a-syntaxerror-cant-decode-bytes
